@@ -1,4 +1,4 @@
-![图片描述](./images/photo.png)
+![图片描述](./image/ScriptIrcBAG2.png)
 
 ## ScriptIrc - Let the Agent Build Bukkit Plugins for You
 
